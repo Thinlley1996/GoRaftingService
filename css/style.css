@@ -917,6 +917,9 @@ h3 {
 }
 
 @media (max-width: 767px) {
+    .slider_area .single_slider {
+        height: 50vh;
+    }
     .slider_area .single_slider .slider_text h3 {
         font-size: 33px;
         letter-spacing: 3px
@@ -924,6 +927,9 @@ h3 {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+    .slider_area .single_slider {
+        height: 50vh;
+    }
     .slider_area .single_slider .slider_text h3 {
         font-size: 30px
     }
